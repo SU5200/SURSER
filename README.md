@@ -1,5 +1,41 @@
 # 幸运星大人的前端项目
 
+## 项目介绍
+
+这是一个使用Vue.js构建的前端项目，包含话题列表、话题详情、登录等功能。
+
+## 技术栈
+
+- Vue 3
+- Vue Router
+- Vite
+- Axios
+
+## 部署说明
+
+本项目已配置GitHub Pages部署功能，可通过以下步骤部署：
+
+1. 安装依赖
+```bash
+npm install
+```
+
+2. 构建项目
+```bash
+npm run build
+```
+
+3. 部署到GitHub Pages
+```bash
+npm run deploy
+```
+
+## 本地运行
+
+```bash
+npm run dev
+```# 幸运星大人的前端项目
+
 ## 项目简介
 这是一个基于 Vue 3 + Vite 构建的前端项目，用于展示和实现「幸运星大人」相关的功能。
 
